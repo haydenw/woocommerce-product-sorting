@@ -4,7 +4,7 @@ Based on [the original](https://github.com/woocommerce/woocommerce/blob/dd49f89e
 
 For stores with a large number of products the manual drag/drop sorting is very slow. This plugin improves it but is not a perfect fix. Test case is a store with ~2000 products. Time to load the new ordering improved from ~35 seconds to 600ms - 3 seconds (depending on where in the list the selected product is).
 
-Tested with WooCommerce 3.6.4.
+Tested with WooCommerce 3.6.4 to 7.0.0.
 
 ### Installation
 
